@@ -1,4 +1,5 @@
 # 🧠 DSA-Masterpiece-Journey
+Hello This is Saqib Abro
 
 Welcome to my **Data Structures and Algorithms (DSA)** journey repository!  
 This repo is a complete log of my learning, problem-solving, and concept mastery — from basics to advanced algorithms.
@@ -23,7 +24,6 @@ This repo is a complete log of my learning, problem-solving, and concept mastery
 | `LinkedList/` | Singly, Doubly, and Circular Linked Lists |
 | `Tree/` | Binary Trees, BSTs, and traversal algorithms |
 | `Graph/` | Graph representation, BFS, DFS, and algorithms |
-| `Notes/` | Personal notes and concept summaries |
 
 ---
 
@@ -59,4 +59,4 @@ Feel free to explore, learn, and contribute — we grow together! 🚀
 ---
 
 ⭐ **Star this repo** if it helps you in your DSA journey!  
-📬 **Contact:** [Your Email or GitHub Profile Link]  
+
